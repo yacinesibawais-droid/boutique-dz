@@ -1,0 +1,9 @@
+{
+  "name": "متجري",
+  "short_name": "متجري",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1d3557",
+  "theme_color": "#e63946",
+  "lang": "ar"
+}
